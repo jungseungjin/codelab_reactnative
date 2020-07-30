@@ -1,0 +1,6 @@
+module Pods_MovieQuiz_MovieQuizTests {
+  umbrella header "Pods-MovieQuiz-MovieQuizTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
